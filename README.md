@@ -17,3 +17,11 @@ lodop 批量打印电子面单
 
 附 vue集合lodop打印(转)
 https://www.jianshu.com/p/d288963c1a80
+
+运行项目：
+0. 打开server/mysql.js里面有本地mysql配置
+1. cmdg到server文件夹
+2. npm i (需要先安装Node.js)
+3. node app.js
+4. 双击index.html，等1到2s, 点击 “打印”按钮
+
