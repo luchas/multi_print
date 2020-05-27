@@ -26,5 +26,5 @@ https://www.jianshu.com/p/d288963c1a80
 4. 双击index.html，等1到2s, 点击 “打印”按钮
 
 效果如下：
-![打印电子面单](/效果图/打印面单效果图.png)
+![打印电子面单](/multi_print/效果图/打印面单效果图.png)
 
