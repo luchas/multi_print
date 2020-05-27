@@ -25,3 +25,6 @@ https://www.jianshu.com/p/d288963c1a80
 3. node app.js
 4. 双击index.html，等1到2s, 点击 “打印”按钮
 
+效果如下：
+![打印电子面单](/效果图/打印面单效果图.png)
+
